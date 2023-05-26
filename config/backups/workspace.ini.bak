@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\.spyder-py3\\temp.py', '..\\..\\..\\Pyhton\\murat Coskun\\Siniflar\\HatalarVeIstisnalar.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\DosyaYazma.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\bilgiler.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\DosyaOkuma.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\DosyalardaKullanilanFonsiyonlar.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\DosyalardaDegisiklikYapma.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\egzersiz.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\notlar.txt', '..\\..\\..\\Pyhton\\murat Coskun\\GomuluFonksiyonlar.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\kalanlar.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\gecenler.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\futbolcular.py', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\futbolcular.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\gs.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\fb.txt', '..\\..\\..\\Pyhton\\murat Coskun\\DosyaAcmaIslemleri.py\\bjk.txt']
+
+[main]
+version = 0.2.0
+recent_files = []
+
